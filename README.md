@@ -1,3 +1,3 @@
 
-Accessible via GitHub Pages at: https://theunknown54.github.io/gtaw-SAPR-interview-parser/
+Accessible via GitHub Pages at: https://mcdadda.github.io/GTA-C-LSPD-Interview-Parser/
 
