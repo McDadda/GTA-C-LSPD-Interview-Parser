@@ -79,7 +79,7 @@ LOS SANTOS, SA 87447
 
 [list=none][b][u]Interview Summary[/u][/b]
 [list=none][spoiler=Interview Log][b]Interview Log[/b]
-[legend=${TPLTVAR_DIVBOX_COLOR}, Preinterview]${TPLTVAR_PREINTERVIEW_TEXT}[/divbox]
+[legend=${TPLTVAR_DIVBOX_COLOR}, Preinterview]${TPLTVAR_PREINTERVIEW_TEXT}[/legend]
 ${TPLTVAR_QUESTIONS_CONTAINER}
 [/list][/spoiler][/list]
 
@@ -112,7 +112,7 @@ ${TPLTVAR_QUESTIONS_CONTAINER}
 `
 
 // Individual question template
-const QUESTION_TEMPLATE = `[legend=${TPLTVAR_DIVBOX_COLOR}, ${TPLTVAR_QUESTION_TEXT}]${TPLTVAR_QUESTION_ANSWER_CONTENT}[/divbox]`
+const QUESTION_TEMPLATE = `[legend=${TPLTVAR_DIVBOX_COLOR}, ${TPLTVAR_QUESTION_TEXT}]${TPLTVAR_QUESTION_ANSWER_CONTENT}[/legend]`
 
 // Errors
 let g_HasError = false;
